@@ -1,4 +1,4 @@
-This repository includes the code for the manuscript "Musical rhythm categorization is predicted by neural oscillation and Hebbian learning".
+This repository includes the MATLAB code for the manuscript "Musical rhythm categorization is predicted by neural oscillation and Hebbian learning".
 
 Before running the code
 * Download or clone the GrFNN Toolbox (https://github.com/MusicDynamicsLab/GrFNNToolbox) and add its foloders to the MATLAB path
